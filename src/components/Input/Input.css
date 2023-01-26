@@ -1,0 +1,15 @@
+.input-style {
+    width: 300px;
+    height: 25px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.labelIn {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: space-evenly;
+    font-weight: 800;
+}

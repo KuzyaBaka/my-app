@@ -1,0 +1,22 @@
+.card-info{
+    display: flex;
+    margin: 100px;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.card-img img{
+    width: 900px;
+    height: 600px;
+}
+
+.card-text{
+    width: 900px;
+    text-align: center;
+}
+
+.card-main {
+    
+}

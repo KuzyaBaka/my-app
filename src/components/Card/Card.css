@@ -1,0 +1,24 @@
+.game-img img{
+    width: 300px;
+    height: 200px;
+}
+
+.card-wrapper{
+    width: 300px;
+    height: fit-content;
+    overflow: hidden;
+    font-size: 18px;
+    border-radius: 20px;
+    background-color: rgb(31, 31, 31);
+    color: white;
+    transition-duration: .4s;
+}
+
+.card-wrapper:hover{
+    transform: scale(1.05);
+}
+
+.card-name{
+    font-weight: 900;
+    text-decoration: none;
+}

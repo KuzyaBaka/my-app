@@ -1,5 +1,11 @@
-.header {
-    width: 100%;
+.header{
+    width: 99,9%;
     height: 10vh;
-    border: 1px solid #000;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.icon {
+    color: white;
 }
